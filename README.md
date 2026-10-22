@@ -1,17 +1,30 @@
 # Olá, Sou o Danilo Rodrigues Guerreiro
 
-🚀 **Estudante ADS**  
+🚀 **Estudante ADS | Análise de Dados**  
  🇧🇷 Brasil
 
 # 👋 Sobre mim
 
-Estudante de Análise e Desenvolvimento de Sistemas (ADS), atualmente no 3º semestre. Tenho interesse em tecnologia e desenvolvimento de software, sempre buscando aprender e evoluir através de projetos práticos.
+Estudante de Análise e Desenvolvimento de Sistemas (ADS), atualmente no 3º semestre. Tenho interesse em tecnologia, desenvolvimento de software e análise de dados, sempre buscando aprender e evoluir através de projetos práticos.
 
 Já tive experiência profissional como Jovem Aprendiz, onde desenvolvi responsabilidade, organização e contato com rotinas administrativas e tecnológicas, incluindo uso de sistemas e criação de planilhas.
 
-Atualmente estou focado em aprimorar meus conhecimentos em desenvolvimento web (HTML, CSS e JavaScript), aplicando conceitos como Mobile First, e também em Python, criando projetos voltados para lógica de programação e cálculos.
+Atualmente estou focado em **análise de dados**, usando SQL, Python (Pandas) e Power BI para transformar dados em respostas e dashboards. Também sigo aprimorando meus conhecimentos em desenvolvimento web (HTML, CSS e JavaScript), aplicando conceitos como Mobile First.
 
-🚀 Meu objetivo é conquistar uma oportunidade na área de TI e crescer como desenvolvedor, sempre aprendendo novas tecnologias e melhorando minhas habilidades.
+🚀 Meu objetivo é conquistar uma oportunidade na área de TI, com foco em dados e desenvolvimento, e crescer sempre aprendendo novas tecnologias e melhorando minhas habilidades.
+
+---
+
+## 📈 Projetos em destaque
+
+### 🛒 Análise de Vendas e Satisfação do Cliente (Olist)
+Análise de cerca de 100 mil pedidos de e-commerce com **SQL (MySQL)**, **Pandas** e **Power BI**. O projeto responde se o atraso na entrega derruba a nota do cliente e se os estados que mais vendem são os que mais atrasam.  
+🔎 Resultado: pedidos no prazo têm nota média de 4,29, e com mais de 7 dias de atraso a nota cai para 1,70.  
+👉 [Ver projeto](https://github.com/TreferDG/olist-vendas-satisfacao-cliente)
+
+### 🎮 Ranking de Gêneros da Steam
+Análise dos gêneros de jogos da Steam com **Pandas**, e dashboard em **Power BI** com o ranking dos gêneros.  
+👉 [Ver projeto](https://github.com/TreferDG/steam-analysis-monetization)
 
 ---
 
@@ -21,17 +34,26 @@ Atualmente estou focado em aprimorar meus conhecimentos em desenvolvimento web (
   <a href="https://github.com/TreferDG">
     <img src="https://img.shields.io/badge/GitHub-TreferDG-181717?style=for-the-badge&logo=github" />
   </a>
-  <a ="daniloguerreiro.trabalho@gmail.com">
-  <img src="https://img.shields.io/badge/Email-daniloguerreiro.trabalho@gmail.com-181717?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+  <a href="https://www.linkedin.com/in/danilo-guerreiro-66a35737a">
+    <img src="https://img.shields.io/badge/LinkedIn-Danilo%20Guerreiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:daniloguerreiro.trabalho@gmail.com">
+    <img src="https://img.shields.io/badge/Email-daniloguerreiro.trabalho@gmail.com-181717?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## 🧠 O que eu sei:
 
-   Tenho conhecimentos em desenvolvimento e lógica de programação, com foco em projetos práticos e aprendizado contínuo. Atualmente trabalho com:
-    
+   Tenho conhecimentos em análise de dados, desenvolvimento e lógica de programação, com foco em projetos práticos e aprendizado contínuo. Atualmente trabalho com:
+
+🗄️ SQL (MySQL): JOINs, CTEs, funções de janela e validação de dados
+
+🐼 Python e Pandas: limpeza, junções e preparação de dados
+
+📊 Power BI: modelo de dados, medidas em DAX e dashboards
+
 🌐 HTML5
 
 🎨 CSS3
@@ -48,11 +70,17 @@ Atualmente estou focado em aprimorar meus conhecimentos em desenvolvimento web (
 
 📊 Planilhas (Google Sheets / Excel)
 
-📌 Estou sempre buscando evoluir e aprender novas tecnologias, principalmente voltadas para desenvolvimento web e back-end. 
+📌 Estou sempre buscando evoluir e aprender novas tecnologias, principalmente voltadas para dados, desenvolvimento web e back-end. 
 
 ---
 
 ## 🛠️ Tecnologias
+
+### 📊 Dados
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### 🖥️ Frontend
 
@@ -73,7 +101,7 @@ Atualmente estou focado em aprimorar meus conhecimentos em desenvolvimento web (
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
-### 📊 Outros Conhecimentos
+### 📋 Outros Conhecimentos
 
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-0F9D58?style=for-the-badge&logo=googlesheets&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
