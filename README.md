@@ -1,29 +1,39 @@
 # Olá, Sou o Danilo Rodrigues Guerreiro
 
-🚀 **Estudante ADS | Análise de Dados**  
+📊 **Estudante ADS | Foco em Análise de Dados**  
  🇧🇷 Brasil
 
 # 👋 Sobre mim
 
-Estudante de Análise e Desenvolvimento de Sistemas (ADS), atualmente no 4º semestre. Tenho interesse em tecnologia, desenvolvimento de software e análise de dados, sempre buscando aprender e evoluir através de projetos práticos.
+Estudante de Análise e Desenvolvimento de Sistemas (ADS), no 4º semestre, com foco em **análise de dados**. Gosto de pegar dados brutos, validar, limpar e transformar em respostas claras para perguntas de negócio, usando **SQL, Python (Pandas) e Power BI**.
+
+Aprendo através de projetos práticos: cada projeto parte de perguntas reais, passa pela validação da qualidade dos dados e termina em um dashboard com conclusões documentadas.
 
 Já tive experiência profissional como Jovem Aprendiz, onde desenvolvi responsabilidade, organização e contato com rotinas administrativas e tecnológicas, incluindo uso de sistemas e criação de planilhas.
 
-Atualmente estou focado em **análise de dados**, usando SQL, Python (Pandas) e Power BI para transformar dados em respostas e dashboards. Também sigo aprimorando meus conhecimentos em desenvolvimento web (HTML, CSS e JavaScript), aplicando conceitos como Mobile First.
-
-🚀 Meu objetivo é conquistar uma oportunidade na área de TI, com foco em dados e desenvolvimento, e crescer sempre aprendendo novas tecnologias e melhorando minhas habilidades.
+🚀 Meu objetivo é conquistar uma oportunidade na área de dados, como analista júnior ou estágio, crescendo com novos projetos e ferramentas.
 
 ---
 
 ## 📈 Projetos em destaque
 
 ### 🛒 Análise de Vendas e Satisfação do Cliente (Olist)
-Análise de cerca de 100 mil pedidos de e-commerce com **SQL (MySQL)**, **Pandas** e **Power BI**. O projeto responde se o atraso na entrega derruba a nota do cliente e se os estados que mais vendem são os que mais atrasam.  
-🔎 Resultado: pedidos no prazo têm nota média de 4,29, e com mais de 7 dias de atraso a nota cai para 1,70.  
+Análise de cerca de 100 mil pedidos de e-commerce com **SQL (MySQL)**, **Pandas** e **Power BI** (dashboard de duas páginas).
+
+**Perguntas respondidas:**
+- Quais categorias e estados geram mais receita?
+- O atraso na entrega derruba a nota do cliente?
+- Os estados que mais vendem são os que mais atrasam?
+
+🔎 **Destaques:** pedidos no prazo têm nota média de 4,29, e com mais de 7 dias de atraso a nota cai para 1,70. As 10 categorias mais vendidas concentram cerca de 62% da receita, e o atraso se concentra no Nordeste.
+
+**Como fiz:** validação e tratamento dos dados em SQL (duplicatas, nulos, categorias sem tradução), preparação das tabelas em Pandas conferindo cada número com o SQL e dashboard em Power BI com medidas em DAX.
+
 👉 [Ver projeto](https://github.com/TreferDG/olist-vendas-satisfacao-cliente)
 
 ### 🎮 Ranking de Gêneros da Steam
-Análise dos gêneros de jogos da Steam com **Pandas**, e dashboard em **Power BI** com o ranking dos gêneros.  
+Análise dos gêneros de jogos da Steam com **Pandas**, e dashboard em **Power BI** com o ranking dos gêneros.
+
 👉 [Ver projeto](https://github.com/TreferDG/steam-analysis-monetization)
 
 ---
@@ -34,9 +44,11 @@ Análise dos gêneros de jogos da Steam com **Pandas**, e dashboard em **Power B
   <a href="https://github.com/TreferDG">
     <img src="https://img.shields.io/badge/GitHub-TreferDG-181717?style=for-the-badge&logo=github" />
   </a>
+ 
   <a href="https://www.linkedin.com/in/danilo-guerreiro-66a35737a">
     <img src="https://img.shields.io/badge/LinkedIn-Danilo%20Guerreiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  
   <a href="mailto:daniloguerreiro.trabalho@gmail.com">
     <img src="https://img.shields.io/badge/Email-daniloguerreiro.trabalho@gmail.com-181717?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -46,31 +58,21 @@ Análise dos gêneros de jogos da Steam com **Pandas**, e dashboard em **Power B
 
 ## 🧠 O que eu sei:
 
-   Tenho conhecimentos em análise de dados, desenvolvimento e lógica de programação, com foco em projetos práticos e aprendizado contínuo. Atualmente trabalho com:
+**Análise de dados**
 
-🗄️ SQL (MySQL): JOINs, CTEs, funções de janela e validação de dados
+🗄️ **SQL (MySQL):** JOINs entre várias tabelas, CTEs, funções de janela (`ROW_NUMBER`, `SUM() OVER`), agregações e validação da qualidade dos dados
 
-🐼 Python e Pandas: limpeza, junções e preparação de dados
+🐼 **Python e Pandas:** leitura direta do banco (`read_sql`), junções (`merge`), tratamento de nulos e duplicatas, criação de colunas e faixas, exportação de tabelas para dashboards
 
-📊 Power BI: modelo de dados, medidas em DAX e dashboards
+📊 **Power BI:** modelo relacional (um para muitos), tabela calendário, medidas em DAX, formatação condicional e dashboards de várias páginas
 
-🌐 HTML5
+📋 **Planilhas:** Google Sheets e Excel
 
-🎨 CSS3
+🔧 **Git e GitHub:** versionamento, documentação de projetos em README e organização de repositórios
 
-⚡ JavaScript
+**Também tenho base em:** HTML5, CSS3, JavaScript, Mobile First e lógica de programação em Python.
 
-📱 Responsividade / Mobile First
-
-🐍 Python (lógica, cálculos e projetos básicos)
-
-🔧 Git e GitHub
-
-📁 Organização e criação de projetos
-
-📊 Planilhas (Google Sheets / Excel)
-
-📌 Estou sempre buscando evoluir e aprender novas tecnologias, principalmente voltadas para dados, desenvolvimento web e back-end. 
+📌 Estou sempre buscando evoluir, e meus próximos passos em dados são estatística aplicada e análises mais avançadas com Python.
 
 ---
 
@@ -79,32 +81,25 @@ Análise dos gêneros de jogos da Steam com **Pandas**, e dashboard em **Power B
 ### 📊 Dados
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### 🖥️ Frontend
+### 📋 Planilhas
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-
-### ⚛️ Frameworks / Bibliotecas
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### 🐍 Backend / Linguagens
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-0F9D58?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ### 🔧 Ferramentas
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
-### 📋 Outros Conhecimentos
+### 🖥️ Desenvolvimento web (base)
 
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-0F9D58?style=for-the-badge&logo=googlesheets&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
 
 ---
 
