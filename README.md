@@ -5,7 +5,7 @@
 
 # 👋 Sobre mim
 
-Estudante de Análise e Desenvolvimento de Sistemas (ADS), atualmente no 3º semestre. Tenho interesse em tecnologia, desenvolvimento de software e análise de dados, sempre buscando aprender e evoluir através de projetos práticos.
+Estudante de Análise e Desenvolvimento de Sistemas (ADS), atualmente no 4º semestre. Tenho interesse em tecnologia, desenvolvimento de software e análise de dados, sempre buscando aprender e evoluir através de projetos práticos.
 
 Já tive experiência profissional como Jovem Aprendiz, onde desenvolvi responsabilidade, organização e contato com rotinas administrativas e tecnológicas, incluindo uso de sistemas e criação de planilhas.
 
